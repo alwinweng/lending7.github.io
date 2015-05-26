@@ -7,6 +7,8 @@ disqus: y
 
 The project was a project for CPSC 531. It was using to pratice integrate Facebook, SQLite, and optimize ios UI framework.
 
+<a href="https://github.com/tacoring/GiftSuggest" target="_blank" class="big-button gray">Get it on GitHub &hearts;</a>
+
 ---
 
 ### Get Start
