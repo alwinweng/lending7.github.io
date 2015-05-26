@@ -2,8 +2,9 @@
 layout: post
 title: [Xcode]Gift suggest for friend
 date: 2013-05-06 16:27:31
-Gift suggest for friend
+disqus: y
 ---
+
 The project was a project for CPSC 531. It was using to pratice integrate Facebook, SQLite, and optimize ios UI framework.
 
 ---
