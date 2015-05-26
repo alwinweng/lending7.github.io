@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Xcode]Gift suggest for friend
+title: Gift suggest for friend
 date: 2013-05-06 16:27:31
 disqus: y
 ---
