@@ -3050,7 +3050,7 @@
 		#banner h2 {
 			font-size: 3.5em;
 			line-height: 1em;
-			margin: 0 0 0.5em 0;
+			margin: -2em 0 0.5em 0;
 			padding: 0;
 		}
 
@@ -3602,6 +3602,7 @@
 
 			#banner {
 				padding: 4em 0;
+				
 			}
 
 				#banner h2 {
