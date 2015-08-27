@@ -3035,7 +3035,7 @@
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
 		color: #fff;
-		padding: 12em 0 20em 0;
+		padding: 2em 0 20em 0;
 		text-align: center;
 	}
 
@@ -3050,11 +3050,7 @@
 		#banner h2 {
 			font-size: 3.5em;
 			line-height: 1em;
-<<<<<<< HEAD
-			margin: -2em 0 0.5em 0;
-=======
 			margin: 0 0 0.5em 0;
->>>>>>> fb961d2188222abd35e99736ef55644021af7011
 			padding: 0;
 		}
 
@@ -3606,10 +3602,6 @@
 
 			#banner {
 				padding: 4em 0;
-<<<<<<< HEAD
-				
-=======
->>>>>>> fb961d2188222abd35e99736ef55644021af7011
 			}
 
 				#banner h2 {
