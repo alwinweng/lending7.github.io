@@ -3344,6 +3344,13 @@
 				#banner h2 {
 					font-size: 3.5em;
 				}
+			#banner2 {
+				background-attachment: scroll;
+			}
+
+				#banner2 h2 {
+					font-size: 3.5em;
+				}
 
 	}
 
@@ -3679,6 +3686,17 @@
 				#banner p {
 					font-size: 1.25em;
 				}
+			#banner2 {
+				padding: 4em 0;
+			}
+
+				#banner2 h2 {
+					font-size: 2.25em;
+				}
+
+				#banner2 p {
+					font-size: 1.25em;
+				}
 
 		/* Main */
 
@@ -3811,6 +3829,10 @@
 		/* Banner */
 
 			#banner {
+				padding: 5em 1em 4em 1em;
+			}
+			
+			#banner2 {
 				padding: 5em 1em 4em 1em;
 			}
 
